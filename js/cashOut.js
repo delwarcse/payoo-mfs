@@ -12,7 +12,7 @@ if(cashOutPin === '123'){
     document.getElementById('ac-balance').innerText=availableBalance;
 }
 else{
-    console.log('Wrong Pin')
+    console.log('Wrong Pin Delwar')
 }
 
 });

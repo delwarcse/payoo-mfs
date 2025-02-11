@@ -10,7 +10,7 @@ if(pin === '123'){
     document.getElementById('ac-balance').innerText=newBalanche;
 }
 else{
-    console.log('False Pin')
+    alert('False Pin Delwar');
 }
 
 });
