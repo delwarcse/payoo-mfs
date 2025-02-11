@@ -12,7 +12,7 @@ document.getElementById('button-login')
 
         //step 4 - validte phone & pin
         //the temporary way for matching
-        if (phoneNumber === '4' && pinNumber === '123') {
+        if (phoneNumber === '29' && pinNumber === '123') {
             console.log('you are Logged In');
             //step 5 - allow user to use the website
             window.location.href= '/home.html';
